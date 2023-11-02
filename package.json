@@ -1,5 +1,5 @@
 {
-  "name": "@kafkajs/confluent-schema-registry",
+  "name": "@extend/confluent-schema-registry",
   "version": "3.3.0",
   "main": "dist/index.js",
   "description": "ConfluentSchemaRegistry is a library that makes it easier to interact with the Confluent schema registry, it provides convenient methods to encode, decode and register new schemas using the Apache Avro serialization format.",
@@ -26,7 +26,7 @@
     "ajv": "^7.1.0",
     "avsc": ">= 5.4.13 < 6",
     "mappersmith": ">= 2.30.1 < 3",
-    "protobufjs": "^6.11.4"
+    "protobufjs": "^7.2.5"
   },
   "devDependencies": {
     "@types/execa": "^2.0.0",
